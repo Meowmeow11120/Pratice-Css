@@ -1,0 +1,13 @@
+#yess {
+    background-color: black;
+    color: white;
+}
+
+#no0 {
+    background-color: yellow;
+}
+
+#yess,#no0 {
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', Times, serif;
+}
